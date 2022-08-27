@@ -1,6 +1,7 @@
 ---
 title: Xinze Li (Bryan)
 role: PhD Student of Mathematics
+avatar_filename: img_1855-1-_400x400.jpeg
 bio: none
 interests:
   - Differential Geometry
