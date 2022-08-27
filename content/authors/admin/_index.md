@@ -15,7 +15,7 @@ social:
     link: https://github.com/Xinze-Li-Bryan
 organizations:
   - name: University of Toronto
-    url: [https://www.math.toronto.edu/cms/](https://www.utoronto.ca/)
+    url: https://www.utoronto.ca/
 education:
   courses:
     - course: PhD in Mathematics (2022-2027 Expected)
