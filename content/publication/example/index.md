@@ -17,7 +17,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: On the equidistribution of closed geodesics and geodesic nets
-doi: ""
+doi: "https://arxiv.org/abs/2205.13694"
 featured: true
 tags: []
 projects:
