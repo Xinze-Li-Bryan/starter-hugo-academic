@@ -6,12 +6,11 @@ url_pdf: ""
 publication_types:
   - "3"
 authors:
-  - Xinze
+  - Xinze Li
+  - Bruno Staffa
 author_notes: []
 publication: ""
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -23,10 +22,6 @@ featured: true
 tags: []
 projects:
   - example
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
 date: 2022-05-27T00:00:00Z
 url_slides: ""
 publishDate: ""
