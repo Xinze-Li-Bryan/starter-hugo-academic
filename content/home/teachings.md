@@ -2,10 +2,9 @@
 widget: pages
 widget_id: TEACHINGS
 headless: true
-weight: 30
 title: Teachings
 subtitle: Please refer to [Quercus](https://q.utoronto.ca/)
-weight: 1  # section position on page
+weight: 30  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
