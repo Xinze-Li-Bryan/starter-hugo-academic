@@ -34,7 +34,7 @@ content:
     postcode: M5S 2E5
     country: Canada
     country_code: CA
-  office: PG301
+  directions: PG301
 
 design:
   columns: '2'
