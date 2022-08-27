@@ -1,13 +1,12 @@
 ---
-abstract: We show that given a closed n-manifold $M$, for a generic set of
-  Riemannian metrics $g$ on $M$ there exists a sequence of closed geodesics that
-  are equidistributed in $M$ if $n=2$; and an equidistributed sequence of
-  embedded stationary geodesic nets if $n=3$. One of the main tools that we use
-  is the Weyl Law for the volume spectrum for $1$-cycles, proved by Liokumovich,
-  Marques and Neves for $n=2$ and more recently by Guth and Liokumovich for
-  $n=3$. We show that our proof of the equidistribution of geodesic nets can be
-  generalized for any dimension $n≥2$ provided the Weyl Law for $1$-cycles in
-  $n$-manifolds holds.
+abstract: We show that given a closed n-manifold M, for a generic set of
+  Riemannian metrics g on M there exists a sequence of closed geodesics that are
+  equidistributed in M if n=2; and an equidistributed sequence of embedded
+  stationary geodesic nets if n=3. One of the main tools that we use is the Weyl
+  Law for the volume spectrum for 1-cycles, proved by Liokumovich, Marques and
+  Neves for n=2 and more recently by Guth and Liokumovich for n=3. We show that
+  our proof of the equidistribution of geodesic nets can be generalized for any
+  dimension n≥2 provided the Weyl Law for 1-cycles in n-manifolds holds.
 slides: ""
 url_pdf: ""
 publication_types:
