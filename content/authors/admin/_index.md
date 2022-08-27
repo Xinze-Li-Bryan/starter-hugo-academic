@@ -5,7 +5,9 @@ bio: "y research interests lie in the differential geometry, an area of
   studying  geometric shapes via calculus type analytic tools such as partial
   differential equation and geometric measure theory. "
 interests:
-  - Differential Geometry  Geometric Measure Theory  Geometric PDE
+  - Differential Geometry
+  - Geometric Measure Theory
+  - Geometric PDE
 social:
   - icon: envelope
     icon_pack: fas
