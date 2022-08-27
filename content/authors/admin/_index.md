@@ -1,6 +1,6 @@
 ---
-title: Xinze Li (Bryan)
-role: PhD Student of Mathematics
+title: Xinze Li
+role: PhD Student in Mathematics
 avatar_filename: avatar.jpg
 bio: none
 interests:
@@ -19,14 +19,14 @@ organizations:
     url: https://www.utoronto.ca/
 education:
   courses:
-    - course: PhD in Mathematics (2022-2027 Expected)
+    - course: PhD - Mathematics (2022-2027 Expected)
       institution: University of Toronto
       year: ""
-    - course: BSc in Mathematics and Statistics (2018-2022)
+    - course: BSc - Honours Mathematics and Statistics (2018-2022)
       institution: University of Toronto
       year: ""
 email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I am Xinze, a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/cms/) of the University of Toronto. My research interests lie in the differential geometry, an area of studying geometric shapes via calculus type analytic tools such as partial differential equation and geometric measure theory. During my undergraduate time, I was very glad to be supervised by professor [Yevgeny Liokumovich](https://www.math.toronto.edu/ylio/) and joint worked with [Bruno Staffa](http://www.math.toronto.edu/cms/people/students/graduate/staffa-bruno/)
+Hi! I am Xinze, a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/cms/) of the University of Toronto. My research interests lie in differential geometry, an area of studying geometric shapes via calculus-type analytic tools such as partial differential equations and geometric measure theory. During my undergraduate time, I studied and worked on the min-max problems of minimal surfaces & geodesics. I was very fortuned be supervised by professor [Yevgeny Liokumovich](https://www.math.toronto.edu/ylio/) and joint worked with [Bruno Staffa](http://www.math.toronto.edu/cms/people/students/graduate/staffa-bruno/)
