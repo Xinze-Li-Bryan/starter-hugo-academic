@@ -29,4 +29,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I am Xinze, a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/cms/) of the University of Toronto. My research interests lie in differential geometry, an area of studying geometric shapes via calculus-type analytic tools such as partial differential equations and geometric measure theory. During my undergraduate time, I studied the min-max problems of minimal surfaces & geodesics supervised by professor [Yevgeny Liokumovich](https://www.math.toronto.edu/ylio/) and joint worked with [Bruno Staffa](http://www.math.toronto.edu/cms/people/students/graduate/staffa-bruno/)
+Hi! I am Xinze, a PhD student at the [Department of Mathematics](https://www.math.toronto.edu/cms/) of the University of Toronto. My research interests lie in differential geometry, an area of studying geometric shapes via calculus-type analytic tools such as partial differential equations and geometric measure theory.
