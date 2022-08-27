@@ -25,19 +25,17 @@ experience:
   - title: Teaching Assistant
     company: University of Toronto
     company_url: 'https://q.utoronto.ca/'
-    date_start: '2021-01-01'
+    date_start: '2022-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Undergraduate Courses:
         
         * MAT133: Calculus and Linear Algebra for Commerce
 
   - title: Organizer
-    company: SGAS at University of Toronto
+    company: SGAS at the University of Toronto
     company_url: 'https://davidknapik.com/sgas/'
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2022-09-01'
 
 design:
   columns: '2'
