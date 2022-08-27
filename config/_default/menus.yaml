@@ -11,7 +11,7 @@ main:
     url: '#publications'
     weight: 20
   - name: Teachings
-    url: '#teachings'
+    url: '#uoftteachings'
     weight: 25
   - name: Projects
     url: '#projects'
