@@ -1,6 +1,6 @@
 ---
 title: Xinze Li
-role: PhD Student in Mathematics
+role: Ph.D. Student in Mathematics
 avatar_filename: avatar.jpg
 bio: none
 interests:
