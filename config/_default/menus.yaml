@@ -12,13 +12,13 @@ main:
     weight: 20
   - name: Teachings
     url: '#teachings'
-    weight: 25
+    weight: 30
   - name: Projects
     url: '#projects'
-    weight: 26
+    weight: 40
   - name: CV
     url: uploads/resume.pdf
-    weight: 70
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 100
