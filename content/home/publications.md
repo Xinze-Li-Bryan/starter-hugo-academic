@@ -2,7 +2,7 @@
 widget: pages
 widget_id: PUBLICATIONS AND PREPRIENTS
 headless: true
-weight: 90
+weight: 10
 title: Publications and Preprints
 subtitle: ""
 content:
