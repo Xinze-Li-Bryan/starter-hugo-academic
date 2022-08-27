@@ -1,11 +1,11 @@
 ---
 title: Xinze Li (Bryan)
 role: PhD Student of Mathematics
-bio: "y research interests lie in the  differential geometry, an area of
+bio: "y research interests lie in the differential geometry, an area of
   studying  geometric shapes via calculus type analytic tools such as partial
   differential equation and geometric measure theory. "
 interests:
-  - Differential Geometry
+  - Differential Geometry  Geometric Measure Theory  Geometric PDE
 social:
   - icon: envelope
     icon_pack: fas
