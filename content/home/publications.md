@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: RECENT-PUBLICATIONS AND PREPRIENTS
+widget_id: PUBLICATIONS AND PREPRIENTS
 headless: true
 weight: 90
-title: Recent Publications and Preprints
+title: Publications and Preprints
 subtitle: ""
 content:
   filters:
