@@ -1,9 +1,7 @@
 ---
 title: Xinze Li (Bryan)
 role: PhD Student of Mathematics
-bio: My research interests lie in the differential geometry, an area of
-  studying  geometric shapes via calculus type analytic tools such as partial
-  differential equation and geometric measure theory.
+bio: none
 interests:
   - Differential Geometry
   - Geometric Measure Theory
@@ -17,7 +15,7 @@ social:
     link: https://github.com/Xinze-Li-Bryan
 organizations:
   - name: University of Toronto
-    url: https://www.math.toronto.edu/cms/
+    url: [https://www.math.toronto.edu/cms/](https://www.utoronto.ca/)
 education:
   courses:
     - course: PhD in Mathematics (2022-2027 Expected)
@@ -30,4 +28,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a second year PhD student at the [Department of Mathematics](https://www.math.toronto.edu/cms/) at the University of Toronto. Previously, I completed my Bachelor's and Master's degrees in Mathematics at McGill University. For my Master's degree, I explored self-affine and self-similar fractal sets, with a focus on dimension theory as well as the spectrum of the Laplacian on such sets. During this time, I was very fortunate to be jointly supervised by professors [Dmitry Jakobson](https://www.math.mcgill.ca/jakobson/) and [Linan Chen](https://www.math.mcgill.ca/lnchen/). 
+I am a first year PhD student at the [Department of Mathematics](https://www.math.toronto.edu/cms/) at the University of Toronto. My research interests lie in the differential geometry, an area of studying geometric shapes via calculus type analytic tools such as partial differential equation and geometric measure theory. During my undergraduate time, I was very glad to be supervised by professor [Yevgeny Liokumovich](https://www.math.toronto.edu/ylio/) and joint worked with [Bruno Staffa](http://www.math.toronto.edu/cms/people/students/graduate/staffa-bruno/)
