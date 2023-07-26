@@ -26,7 +26,7 @@ url_source: "https://arxiv.org/abs/2205.13694"
 url_video: ""
 author_notes: []
 doi: ""
-publication: Trans. of the Amer. Math. Soc.
+publication: Trans. of the Amer. Math. Soc
 projects: []
 date: 2023-07-26T07:45:10.416Z
 url_slides: ""
