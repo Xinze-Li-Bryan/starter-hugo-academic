@@ -19,13 +19,13 @@ organizations:
     url: https://www.utoronto.ca/
 education:
   courses:
-    - course: PhD - Mathematics (2022-2027 Expected)
+    - course: PhD - Mathematics 
       institution: University of Toronto
-      year: ""
-    - course: BSc - Honours Mathematics and Statistics (2018-2022)
+      year: "2022-2027 Expected"
+    - course: BSc - Honours Mathematics and Statistics 
       institution: University of Toronto
-      year: ""
-email: ""
+      year: "2018-2022"
+email: "xbryanli.li@mail.utoronto.ca"
 superuser: true
 highlight_name: true
 ---
