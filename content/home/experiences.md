@@ -28,9 +28,16 @@ experience:
     date_start: '2022-09-01'
     date_end: ''
     description: |2-
+    
         Undergraduate Courses:
         
-        * MAT133: Calculus and Linear Algebra for Commerce
+        * MAT133Y1 Y: Calculus and Linear Algebra for Commerce (2022 Fall & 2023 Winter)
+        * MAT363H1 S: Geometry of Curves and Surfaces (2023 Winter)
+        * MAT334H1 Y: Complex Variables (2023 Summer)
+
+        Math Learning Center:
+        * 2022 Fall
+    
 
   - title: Organizer
     company: SGAS at the University of Toronto
