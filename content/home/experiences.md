@@ -43,6 +43,7 @@ experience:
     company: SGAS at the University of Toronto
     company_url: 'https://davidknapik.com/sgas/'
     date_start: '2022-09-01'
+    date_end: '2023-01-01'
 
 design:
   columns: '2'
