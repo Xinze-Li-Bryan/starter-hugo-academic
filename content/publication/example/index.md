@@ -27,8 +27,7 @@ url_video: ""
 author_notes: []
 doi: ""
 publication: Trans. of the Amer. Math. Soc.
-projects:
-  - example
+projects: []
 date: 2022-05-27T00:00:00.000Z
 url_slides: ""
 publishDate: ""
