@@ -4,9 +4,9 @@ role: Ph.D. Student in Mathematics
 avatar_filename: avatar.jpg
 bio: none
 interests:
-  - Differential Geometry
+  - Minimal Surfaces
   - Geometric Measure Theory
-  - Geometric PDE
+  - Comparison Geometry
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,4 +29,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I am Xinze, a Ph.D. student at the [Department of Mathematics](https://www.math.toronto.edu/cms/) of the University of Toronto. My research interests lie in differential geometry, an area of studying geometric shapes via calculus-type analytic tools such as partial differential equations and geometric measure theory.
+Hi! I am Xinze, a Ph.D. student at the [Department of Mathematics of the University of Toronto](https://www.mathematics.utoronto.ca/). My research interests lie in differential geometry, an area of studying geometric shapes via calculus-type analytic tools such as partial differential equations and geometric measure theory.
