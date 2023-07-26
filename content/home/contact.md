@@ -26,6 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: lixinze@math.utoronto.ca
+  email: xbryanli.li@mail.utoronto.ca
   phone: 2899800166
   address:
     street: 45 St George St
