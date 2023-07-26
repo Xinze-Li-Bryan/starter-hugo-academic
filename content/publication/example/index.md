@@ -18,11 +18,11 @@ draft: false
 featured: true
 tags: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2205.13694.pdf"
 summary: ""
 url_dataset: ""
 url_project: ""
-url_source: ""
+url_source: "https://arxiv.org/abs/2205.13694"
 url_video: ""
 author_notes: []
 doi: ""
