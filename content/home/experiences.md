@@ -34,6 +34,8 @@ experience:
         * MAT133Y1 Y: Calculus and Linear Algebra for Commerce (2022 Fall & 2023 Winter)
         * MAT363H1 S: Geometry of Curves and Surfaces (2023 Winter)
         * MAT334H1 Y: Complex Variables (2023 Summer)
+        * MAT244H1 F: Introduction to Ordinary Differential Equations (2023 Fall)
+
 
         Math Learning Center:
         * 2022 Fall
