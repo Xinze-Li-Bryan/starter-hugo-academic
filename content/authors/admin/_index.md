@@ -1,7 +1,7 @@
 ---
 title: Xinze Li
 role: Ph.D. Student in Mathematics
-avatar_filename: avatar.jpg
+avatar_filename: IMG_1243.PNG
 bio: none
 interests:
   - Min-Max Theory
