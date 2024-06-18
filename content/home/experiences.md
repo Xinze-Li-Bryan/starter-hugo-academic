@@ -35,6 +35,8 @@ experience:
         * MAT363H1 S: Geometry of Curves and Surfaces (2023 Winter)
         * MAT334H1 Y: Complex Variables (2023 Summer)
         * MAT244H1 F: Introduction to Ordinary Differential Equations (2023 Fall)
+        * MATC63H3 S: Differential Geometry (2024 Fall)
+        * MAT402H1 Y: Classical Geometry (2024 Summer)
 
 
         Math Learning Center:
