@@ -1,1 +1,27 @@
-
+---
+title: Lecture Notes on Comparison Geometry:
+  - "2"
+authors:
+  - Xinze Li
+publication_short: ""
+abstract: This note is based on Professor Vitali Kapovitch's comparison geometry course at the University of Toronto. It delves into various comparison theorems, including those by Rauch and Toponogov, focusing on their applications, such as Bishop-Gromov volume comparison, critical point theory of distance functions, diameter sphere theorem, and negative and nonnegative curvature. Additionally, it covers the soul theorem, splitting theorem, and covering theorem by Cheeger-Gromoll, as well as Perelman's proof of the soul conjecture. Finally, the note introduces Gromov-Hausdorff convergence, Alexandrov Spaces, and the Finite Homotopy type theorem by Grove-Peterson.
+draft: false
+featured: true
+tags: []
+slides: ""
+url_pdf: "https://arxiv.org/abs/2404.09792"
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: Trans. of the Amer. Math. Soc
+projects: []
+date: 2023-07-26T07:45:10.416Z
+url_slides: ""
+publishDate: ""
+url_poster: ""
+url_code: ""
+---
